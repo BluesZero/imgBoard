@@ -1,4 +1,4 @@
-# imgHost
+# imgBoard
 Image host for users
 
 # Getting Started
