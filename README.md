@@ -1,4 +1,4 @@
 # imgHost
 Image host for users
 
-#Naruto
+# Naruto
