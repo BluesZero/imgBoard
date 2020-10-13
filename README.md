@@ -5,7 +5,6 @@ Image host for users
 
 Fork or clone this repo, then run below commands:
 ````
-cd photo-album-reactonly
 npm install
 npm start
 ````
