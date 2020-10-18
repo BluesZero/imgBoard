@@ -2,14 +2,17 @@ import React from 'react';
 import './TagSelection.css'
 
 export default function TagSelection() {
+  const margin = {
+    margin:'0'
+  };
   return (
-  <div>
+  <div style = {margin}>
 
     <div class="sidebar">
-      <a >Home</a>
-      <a >News</a>
-      <a >Contact</a>
-      <a >About</a>
+      <p >Home</p>
+      <p >News</p>
+      <p >Contact</p>
+      <p >About</p>
     </div>
   
   </div>

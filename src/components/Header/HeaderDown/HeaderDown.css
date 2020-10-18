@@ -1,0 +1,21 @@
+.hd-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #574470;
+}
+
+.hd-li {
+    float: left;
+    border-left: 1px;
+}
+
+.hd-li-a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+    
+}
