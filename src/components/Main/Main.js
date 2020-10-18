@@ -9,13 +9,15 @@ export default function Main() {
   }
   const CenterPopular = {
     center: {
-      marginLeft: "auto",
-      marginRight: "auto",
+      margin: 'auto',
+      width: '50%',
+      border: '3px solid green',
     }
   }
+
   return (
     <div style = {content}>
-      <div className ={CenterPopular.center}>
+      <div style = {CenterPopular.center}>
         <h3>Popular</h3>
       </div>
 

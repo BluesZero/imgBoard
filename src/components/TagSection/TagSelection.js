@@ -4,16 +4,13 @@ import './TagSelection.css'
 export default function TagSelection() {
   return (
   <div>
-    <div class="sidebar">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
 
-<div class="content">
-  ..
-  </div>
+    <div class="sidebar">
+      <a >Home</a>
+      <a >News</a>
+      <a >Contact</a>
+      <a >About</a>
+    </div>
   
   </div>
    
