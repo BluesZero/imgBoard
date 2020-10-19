@@ -1,3 +1,4 @@
+//Header principal que manda a llamar los 2 headers
 import React from 'react';
 import HeaderUp from './HeaderUp/HeaderUp';
 import HeaderDown from './HeaderDown/HeaderDown';

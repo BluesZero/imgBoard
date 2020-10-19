@@ -1,7 +1,9 @@
+//Header Superior
 import React from 'react';
 import './HeaderUp.css'
 
 export default function HeaderUp() {
+    //Estilos que solo serviran para el boton de login 
     const float={
         float:'right',
         background: '#ff6ca5',

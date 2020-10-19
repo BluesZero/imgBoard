@@ -1,3 +1,4 @@
+//Header inferior
 import React from 'react';
 import './HeaderDown.css'
 
@@ -7,7 +8,8 @@ export default function HeaderDown() {
         <div>
             <div className="hd-ul">
                 <li className="hd-li">
-
+                    
+                    {/* Search bar */}
                     <div className="search-container">
                         <form >
                         <input type="text" placeholder="Search.." name="search"></input>
