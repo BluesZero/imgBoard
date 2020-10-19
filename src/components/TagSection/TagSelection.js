@@ -8,7 +8,7 @@ export default function TagSelection() {
   return (
   <div style = {margin}>
 
-    <div class="sidebar">
+    <div className="sidebar">
       <p >Home</p>
       <p >News</p>
       <p >Contact</p>

@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Main.css'
 
 export default function Main() {
   
@@ -24,8 +24,8 @@ export default function Main() {
   }
 
   return (
-    <div style = {content}>
-      <div style = {CenterPopular.center}>
+    <div style = {content} className="content">
+      <div style = {CenterPopular.center} >
         <h3 style = {center}>Popular</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto iure, quo suscipit voluptatum dignissimos tenetur consequuntur mollitia, minus, unde quae maiores. Voluptas, nam! Iure sit impedit perspiciatis aspernatur labore expedita.</p>
       </div>
