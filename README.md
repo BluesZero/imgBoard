@@ -1,5 +1,5 @@
 # imgBoard
-Image host for users
+ImageBoard for users
 
 # Getting Started
 

@@ -12,7 +12,7 @@ export default function Main() {
     center: {
       margin: 'auto',
       width: '50%',
-      border: '1px solid white',
+      border: '1px solid black',
       borderRadius:'10px',
       overflow: 'hidden'
     }

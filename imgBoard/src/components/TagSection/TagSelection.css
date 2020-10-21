@@ -1,7 +1,9 @@
+
+
 .sidebar {
   width: 200px;
   height: 100%;
-  background-color: black;
+  background-color: #120b19;
   position: fixed;
 }
 
@@ -11,3 +13,4 @@
     padding: 16px;
     text-decoration: none;
   }
+
